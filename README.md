@@ -17,9 +17,9 @@ O projeto foi desenvolvido inteiramente utilizando a biblioteca **D3.js** para m
 
 ## Tecnologias Utilizadas
 
-* **JavaScript (ES6+)**
-* **D3.js (v7)**: Para criação de elementos, aplicação de transições e gerenciamento de eventos de mouse.
-* **SVG (Scalable Vector Graphics)**: Para uma renderização vetorial matemática e precisa.
+* **JavaScript**
+* **D3.js (v7)**
+* **SVG (Scalable Vector Graphics)**
 
 ---
 
